@@ -7,18 +7,19 @@ Hi People,Thanks For Visiting My Repo ! My Name is Akash and I am Application De
 
 ## Tools & Technologies 
 <p align='center'>
- <a href="https://html.com/"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript%20-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></a>
- <a href="https://reactjs.org"><img src ="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
- <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-orange.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="http://github.com/"><img src="https://img.shields.io/badge/github%20-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></a>
   <a href="https://dotnet.microsoft.com/en-us/"><img alt=".NetCore" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://www.microsoft.com/en-in/sql-server/"><img alt="Sql Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
    <a href="https://azure.microsoft.com/en-us/services/devops/"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+ <a href="https://html.com/"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript%20-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></a>
+ <a href="https://reactjs.org"><img src ="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+ <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-orange.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="http://github.com/"><img src="https://img.shields.io/badge/github%20-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+ 
 
 </p>
 
